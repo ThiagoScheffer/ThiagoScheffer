@@ -9,14 +9,15 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoScheffer&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoScheffer&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <!--
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoScheffer&layout=compact&langs_count=16&theme=great-gatsby"/> -->
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Language technologies<3</h1>
+    <h1 align="center"> Language technologies </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
