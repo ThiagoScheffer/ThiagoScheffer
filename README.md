@@ -32,7 +32,7 @@
     <a href = "mailto: thiago.sc.cardoso@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/thiago-cardoso-a5588386/">
+    <a href = "https://www.linkedin.com/in/thiago-scheffer-cardoso/">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
