@@ -17,19 +17,16 @@
 - 💼 **IT | Business Informatics Enthusiast**
 - 🌏 Currently in New Zealand, mastering the intersection of technology, business, and human behavior
 - 🤖 Learning: C#, Python, React, Node.js, Vite, Tailwind CSS, JavaScript, AI automation, and color psychology/design
-- 🧩 Passionate about low-code/no-code development and empowering business users
-- 💡 Believer in the future: **AI + Human Creativity + Critical Thinking + Adaptability**
+- 🧩 Great interest about code development and business uses.
+- 💡 Believer in the future: **AI + Human Creativity + Critical Thinking + Adaptability** - We need reflextions.
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -55,6 +52,7 @@
 - 📚 Learning: AI automation, C#, React, Node.js, and design systems
 - 🏗️ Building: Solutions blending tech & business for smarter organizations
 - 💬 Let's talk about: the future of work, business innovation, and technology
+- 📚 Uploading some of my projects and organizing Github repos.
 
 ---
 
