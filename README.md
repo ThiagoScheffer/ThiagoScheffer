@@ -18,7 +18,7 @@
 - 🌏 Currently in New Zealand, mastering the intersection of technology, business, and human behavior
 - 🤖 Learning: C#, Python, React, Node.js, Vite, Tailwind CSS, JavaScript, AI automation, and color psychology/design
 - 🧩 Great interest about code development and business uses.
-- 💡 Believer in the future: **AI + Human Creativity + Critical Thinking + Adaptability** - We need reflextions.
+- 💡 Believer in the future: **AI + Human Creativity + Critical Thinking + Adaptability** - We need reflections.
 
 ---
 
