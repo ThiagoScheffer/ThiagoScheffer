@@ -7,7 +7,11 @@
   <a href="https://www.linkedin.com/in/thiago-scheffer-cardoso/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Location-New%20Zealand-blue?style=flat-square" alt="Location">
+  
+ 
+  <a href="https://thiagoscheffer-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/ePortfolio?style=social">
+  </a>
 </p>
 
 ---
@@ -74,5 +78,6 @@ Connect With Me
 </p>
 
 ---
+
 
 
