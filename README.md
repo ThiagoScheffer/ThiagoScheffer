@@ -12,9 +12,9 @@
 
 ---
 
-## 🚀 About Me
+About Me
 
-- 💼 **IT | Business Informatics Enthusiast**
+- 💼 IT | Business
 - 🌏 Currently in New Zealand, mastering the intersection of technology, business, and human behavior
 - 🤖 Learning: C#, Python, React, Node.js, Vite, Tailwind CSS, JavaScript, AI automation, and color psychology/design
 - 🧩 Great interest about code development and business uses.
@@ -22,7 +22,7 @@
 
 ---
 
-## 💻 Tech Stack
+Tech Stack
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📈 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoScheffer&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -47,16 +47,16 @@
 
 ---
 
-## 🌱 Currently
+ Currently
 
-- 📚 Learning: AI automation, C#, React, Node.js, and design systems
+- 📚 Learning: AI  + Cybersecurity, C#, React, Node.js, and design systems
 - 🏗️ Building: Solutions blending tech & business for smarter organizations
 - 💬 Let's talk about: the future of work, business innovation, and technology
 - 📚 Uploading some of my projects and organizing Github repos.
 
 ---
 
-## 🤝 Connect With Me
+Connect With Me
 
 <p align="center">
   <a href="mailto:thiago.sc.cardoso@gmail.com">
@@ -74,4 +74,5 @@
 </p>
 
 ---
+
 
