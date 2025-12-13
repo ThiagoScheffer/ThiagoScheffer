@@ -10,10 +10,9 @@
   
  
   <a href="https://thiagoscheffer-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/ePortifolio-darkgreen?style=for-the-badge">
+    <img src="https://img.shields.io/badge/ePortifolio-darkgreen?style=flat-square">
   </a>
 </p>
-
 ---
 
 About Me
@@ -78,6 +77,7 @@ Connect With Me
 </p>
 
 ---
+
 
 
 
