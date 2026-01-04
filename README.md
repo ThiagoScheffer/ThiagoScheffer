@@ -17,7 +17,7 @@
 
 About Me
 
-- 💼 IT | Business
+- 💼 IT | Business | Future Full-Stack Dev
 - 🌏 Currently in New Zealand, mastering the intersection of technology, business, and human behavior
 - 🤖 Learning: C#, Python, React, Node.js, Vite, Tailwind CSS, JavaScript, AI automation, and color psychology/design
 - 🧩 Great interest about code development and business uses.
@@ -52,11 +52,11 @@ GitHub Stats
 
  Currently
 
-- 📚 Learning: AI  + Cybersecurity, C#, React, Node.js, and design systems
+- 📚 Learning: AI  + Cybersecurity, C#, React, Python and Go.
 - 🏗️ Building: Solutions blending tech & business for smarter organizations
-- 💬 Let's talk about: the future of work, business innovation, and technology
+- 💬 Let's talk about: the future of work, business innovation, and technology or Life.
 - 📚 Uploading some of my projects and organizing Github repos.
-
+- 📚 Finishing my Master Degree in Business Informatics.
 ---
 
 Connect With Me
@@ -72,11 +72,9 @@ Connect With Me
 
 ---
 
-<p align="center">
-  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
 
 ---
+
 
 
 
