@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Thiago Scheffer Cardoso 👋</h1>
+<h1 align="center">您好 there, I'm Thiago Scheffer Cardoso ！</h1>
 
 <p align="center">
   <a href="mailto:thiago.sc.cardoso@gmail.com">
@@ -17,12 +17,12 @@
 
 About Me
 
-- 💼 IT | Business | Future Full-Stack Dev
-- 🌏 Currently in New Zealand, mastering the intersection of technology, business, and human behavior
-- 🤖 Learning: C#, Python, React, Node.js, Vite, Tailwind CSS, JavaScript, AI automation, and color psychology/design
-- 🧩 Great interest about code development and business uses.
-- 💡 Believer in the future: **AI + Human Creativity + Critical Thinking + Adaptability** - We need reflections.
-
+- Path: IT | Business | Future Full-Stack Dev 
+- Local: Currently in New Zealand, mastering the intersection of technology, business, and human behavior - MBI
+- Learning: C#, Python, React, TypeScript, GO and color psychology/design(For Webdesing and business)
+- Great interest about code development and business uses. 
+- Believer in the future: **AI + Human Creativity + Critical Thinking + Adaptability** - We need reflections on these topics.
+  
 ---
 
 Tech Stack
@@ -34,7 +34,7 @@ Tech Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" alt="GO"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
 </p>
 
@@ -74,6 +74,7 @@ Connect With Me
 
 
 ---
+
 
 
 
